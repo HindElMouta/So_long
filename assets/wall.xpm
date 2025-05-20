@@ -1,0 +1,39 @@
+/* XPM */
+static char *wall[] = {
+"32 32 4 1",
+". c #000000",     /* contour / profondeur */
+"g c #00FF00",     /* feuilles vertes */
+"b c #8B4513",     /* tronc marron */
+"  c None",        /* fond transparent */
+"                                ",
+"                                ",
+"         gggggggggggg           ",
+"       gggggggggggggggg         ",
+"      gggggggggggggggggg        ",
+"     gggggggggggggggggggg       ",
+"     gggggggggggggggggggg       ",
+"      gggggggggggggggggg        ",
+"       gggggggggggggggg         ",
+"         gggggggggggg           ",
+"            bbbb               ",
+"            bbbb               ",
+"            bbbb               ",
+"            bbbb               ",
+"            bbbb               ",
+"            bbbb               ",
+"            bbbb               ",
+"            bbbb               ",
+"            bbbb               ",
+"            bbbb               ",
+"            bbbb               ",
+"            bbbb               ",
+"            bbbb               ",
+"            bbbb               ",
+"            bbbb               ",
+"           bbbbb               ",
+"           bbbbb               ",
+"           bbbbb               ",
+"          bbbbbbb              ",
+"                                ",
+"                                ",
+"                                "};

@@ -1,0 +1,39 @@
+/* XPM */
+static char *player[] = {
+"32 32 4 1",
+". c #000000",   /* contours/yeux */
+"b c #3399FF",   /* corps bleu */
+"v c #9933FF",   /* oreilles violettes */
+"  c None",      /* fond transparent */
+"                                ",
+"                                ",
+"          vv      vv           ",
+"         vvvv    vvvv          ",
+"         vvvv    vvvv          ",
+"         vvvv    vvvv          ",
+"          bb      bb           ",
+"        bbbbbbbbbbbbbb         ",
+"       bbbbbbbbbbbbbbbb        ",
+"      bbbbbb..bb..bbbbbb       ",
+"      bbbbbbbbbbbbbbbbbb       ",
+"     bbbbbbbbbbbbbbbbbbb       ",
+"     bbbbbbbbbbbbbbbbbbb       ",
+"     bbbbb..bbbbbb..bbbbb      ",
+"     bbb..........bbbbbbb      ",
+"     bbb..........bbbbbbb      ",
+"     bbbbbbbbbbbbbbbbbbb       ",
+"      bbbbbbbbbbbbbbbbb        ",
+"       bbbbbbbbbbbbbbb         ",
+"        bbbbbbbbbbbbb          ",
+"        bbbb      bbbb         ",
+"        bbbb      bbbb         ",
+"       bbbb        bbbb        ",
+"      bbb            bbb       ",
+"                                ",
+"                                ",
+"                                ",
+"                                ",
+"                                ",
+"                                ",
+"                                ",
+"                                "};

@@ -1,0 +1,39 @@
+/* XPM */
+static char *item[] = {
+"32 32 4 1",
+". c #000000",     /* contour */
+"r c #FF3366",     /* pétales rouge-rose */
+"p c #FF99CC",     /* cœur rose clair */
+"  c None",        /* fond transparent */
+"                                ",
+"                                ",
+"                                ",
+"            rrrr               ",
+"         rrrrrrrrrr            ",
+"       rrrrrrrrrrrrrr          ",
+"      rrrrrrrrrrrrrrrr         ",
+"     rrrrrrrr..rrrrrrr         ",
+"     rrrrrr....rrrrrrr         ",
+"    rrrrrr..pp..rrrrrr         ",
+"    rrrrr...pp...rrrrr         ",
+"    rrrrr..pppp..rrrrr         ",
+"    rrrrr...pp...rrrrr         ",
+"    rrrrrr..pp..rrrrrr         ",
+"     rrrrrr....rrrrrrr         ",
+"     rrrrrrrr..rrrrrrr         ",
+"      rrrrrrrrrrrrrrrr         ",
+"       rrrrrrrrrrrrrr          ",
+"         rrrrrrrrrr            ",
+"            rrrr               ",
+"                                ",
+"                                ",
+"                                ",
+"                                ",
+"                                ",
+"                                ",
+"                                ",
+"                                ",
+"                                ",
+"                                ",
+"                                ",
+"                                "};

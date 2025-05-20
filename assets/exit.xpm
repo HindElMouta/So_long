@@ -1,0 +1,40 @@
+/* XPM */
+static char *exit[] = {
+"32 32 5 1",
+". c #000000",  /* contours / cheveux */
+"r c #FF3333",  /* robe rouge */
+"w c #FFFFFF",  /* motif robe */
+"s c #FFDAB9",  /* peau (teint clair) */
+"  c None",     /* fond transparent */
+"                                ",
+"                                ",
+"                                ",
+"                                ",
+"             .......            ",
+"           .............        ",
+"          ...sssssss...         ",
+"         ..sssssssssss..        ",
+"         .sssss..sssss..        ",
+"         .sssss..sssss..        ",
+"         .sssss..sssss..        ",
+"         ..sssssssssss..        ",
+"         ..sssssssssss..        ",
+"          ..sssssssss..         ",
+"          ...rrrrrrr...         ",
+"         ..rrrrrrrrrr..         ",
+"        ..rrrrrrrrrrrr..        ",
+"        ..rrrwwrwwrrr..         ",
+"        ..rrrrrrrrrrr..         ",
+"         ..rrrrrrrrr..          ",
+"         ..rrr...rrr..          ",
+"         .rrr.....rrr.          ",
+"        .rrr.......rrr.         ",
+"        ..r.........r..         ",
+"                                ",
+"                                ",
+"                                ",
+"                                ",
+"                                ",
+"                                ",
+"                                ",
+"                                "};
